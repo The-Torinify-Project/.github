@@ -10,5 +10,5 @@ A rust-based music player client made with the framework [slint](https://github.
 ### Lefty - 🚧
 An all-in-one Go-based client made with the framework [bubbletea](https://github.com/charmbracelet/bubbletea).  
 
-### Blue Lady - Work In Progress 
+### ? - Work In Progress 
 A ? based client made with ? as a music management application for Torinify. 
