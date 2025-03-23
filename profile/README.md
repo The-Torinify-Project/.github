@@ -1,4 +1,4 @@
-## This is Torinify the Music Player
+## Torinify 
 
 A CLang static library that is meant to be used by other projects as Torinify itself does not have a UI.
 
