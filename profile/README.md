@@ -1,12 +1,14 @@
-## Hi there 👋
+## This is Torinify the Music Player
 
-<!--
+A CLang static library that is meant to be used by other projects as Torinify itself does not have a UI.
 
-**Here are some ideas to get you started:**
+## Clients
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### K2 - 🚧
+A rust-based music player client made with the framework [slint](https://github.com/slint-ui/slint) and based on a UI design from a popular video by [juxtopposed](https://www.youtube.com/@juxtopposed). 
+
+### Lefty - 🚧
+An all-in-one Go-based client made with the framework [bubbletea](https://github.com/charmbracelet/bubbletea).  
+
+### Blue Lady - Work In Progress 
+A ? based client made with ? as a music management application for Torinify. 
